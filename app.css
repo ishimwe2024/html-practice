@@ -1,0 +1,29 @@
+
+
+button{
+background-color: green;
+
+
+}
+.img container{
+    
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+.image-container img{
+    width: 200px;
+    height: auto;
+}
+h1{
+    margin-left: 30%;
+}
+ul{
+    margin-left: 30%;
+}
+ol{
+margin-left: 40%;    
+}
+
+
